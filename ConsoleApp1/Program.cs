@@ -11,6 +11,7 @@ namespace ConsoleApp1
         static void Main(string[] args)
         {
             Console.Write("Xin chào các bạn, tôi là Hồng rất vui được gặp các bạn");
+            Console.WriteLine("bạn đang đc tôi giới thiệu vè github");
         }
     }
 }
